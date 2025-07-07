@@ -135,11 +135,11 @@ color: #434455
     letter-spacing: 0.02em;
 }
 
-.footer {
+.end {
     background-color: #2E2F42;
 }
 
-.footer .logo {
+.end .logo {
     font-family: "Raleway";
     font-weight: 700;
     font-size: 18px;
@@ -152,7 +152,7 @@ color: #434455
     color:#f4f4fd ;
 }
 
-.footer >p {
+.end >p {
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02;
